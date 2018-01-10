@@ -1,0 +1,23 @@
+.widefat {width: auto;}
+.ss-list-width {min-width:10%}
+.ss-form-width {width:100%}
+.ss-th-width {width:25%}
+.ss-field-width {width:75%}
+button.inactive-btn {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    border: none;
+    border-radius: 7px;
+    padding: 6px;
+    cursor: pointer;
+}
+button.active-btn {
+        color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    border: none;
+    border-radius: 7px;
+    padding: 6px;
+    cursor: pointer;
+}
